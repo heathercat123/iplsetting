@@ -1,0 +1,77 @@
+body {
+	background-repeat: repeat;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../../../../COMMON/BG/BG_common_M.gif);
+}
+.style1 {
+	text-align: center;
+	vertical-align: middle;
+}
+.Rating_waku {
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: left;
+	vertical-align: middle;
+	font-size: 14px;
+}
+.style2 {
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: center center;
+	text-align: left;
+	vertical-align: middle;
+	font-size: 24px;
+	font-family: "Wii NTLG Gothic Latin Regular", "Wii NTLG PGothic Latin Regular";
+}
+#ListDW {
+	position:absolute;
+	left:528px;
+	top:216px;
+	width:72px;
+	height:72px;
+}
+#ListUP {
+	position:absolute;
+	left:528px;
+	top:8px;
+	width:72px;
+	height:72px;	
+}
+#List01 {
+	position:absolute;
+	left:24px;
+	top:13px;
+	width:496px;
+	height:120px;	
+}
+#List01Check {
+	position:absolute;
+	left:32px;
+	top:28px;
+	width:72px;
+	height:88px;	
+	visibility: hidden;
+}
+.style3 {font-size: 20px}
+#List02Check {
+	position:absolute;
+	left:32px;
+	top:172px;
+	width:120px;
+	height:88px;
+	z-index:2;
+	visibility: hidden;
+}
+#List02 {
+	position:absolute;
+	left:24px;
+	top:157px;
+	width:496px;
+	height:120px;
+	z-index:4;
+}
+

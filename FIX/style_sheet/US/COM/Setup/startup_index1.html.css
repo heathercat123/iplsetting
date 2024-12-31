@@ -1,0 +1,21 @@
+@import url("../../../Under.css");
+body {
+	background-repeat: repeat-x;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../../../../COMMON/BG/BG_common2.gif);
+}
+a:link {
+}
+a:visited {
+}
+a:hover {
+}
+a:active {
+}
+.style5 {color: #999999}
+.style9 {font-size: 24px}
+.style10 {color: #666666; line-height: 38px; font-family: "Wii NTLG PGothic JPN Regular";}
+.style11 {font-family: "Wii NTLG PGothic JPN Regular"; font-size: 32px; color: #666666; line-height: 52px; }

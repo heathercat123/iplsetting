@@ -1,0 +1,125 @@
+@import url("../../../Under.css");
+body {
+	background-repeat: repeat-x;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../../../../COMMON/BG/BG_common.gif);
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style1 {
+	color: #FFFFFF;
+	
+	font-size: 24px;
+	line-height: -60px;
+	text-align: right;
+}
+#BnrGray {
+	position:absolute;
+	left:24px;
+	top:35px;
+	width:32px;
+	height:26px;
+	background-image: url(../../../../COMMON/BG/Tab_gray.gif);
+}
+#BnrWhite {
+	position:absolute;
+	left:56px;
+	top:27px;
+	width:408px;
+	height:36px;
+	background-image: url(../../../../COMMON/BG/Tab_White_L.gif);
+}
+#BnrName {	position:absolute;
+	left:8px;
+	top:0px;
+	width:384px;
+	height:36px;
+}
+#UnderR {
+	position:absolute;
+	left:308px;
+	top:371px;
+	width:272px;
+	height:72px;
+}
+#UnderL {
+	position:absolute;
+	left:28px;
+	top:371px;
+	width:272px;
+	height:72px;
+	z-index:14;
+}
+.style3 {
+	font-size: 20px;
+	color: #FFFFFF;
+	font-family: "Wii NTLG Gothic Latin Regular", "Wii NTLG PGothic Latin Regular";
+	background-repeat: no-repeat;
+	background-position: center center;
+	font-weight: bold;
+}
+.style5 {
+	font-size: 18px;
+	text-align: center;
+	vertical-align: middle;
+	font-family: "Wii NTLG Gothic Latin Regular", "Wii NTLG PGothic Latin Regular";
+	font-weight: bold;
+}
+.style7 {font-size: 20px; color: #333333;  background-repeat: no-repeat; background-position: center center; }
+#Rating {
+	position:absolute;
+	left:224px;
+	top:264px;
+	width:352px;
+	height:88px;
+	background-image: url(../../../../COMMON/CERO/Rated_A_SD.gif);
+}
+#Keyword {
+	position:absolute;
+	left:224px;
+	top:153px;
+	width:384px;
+	height:56px;
+}
+#Answer {
+	position:absolute;
+	left:236px;
+	top:214px;
+	width:324px;
+	height:40px;
+}
+.style9 {color: #FFFFFF}
+#List01 {
+	position:absolute;
+	left:24px;
+	top:105px;
+	width:560px;
+	height:40px;
+}
+#List02 {
+	position:absolute;
+	left:24px;
+	top:145px;
+	width:560px;
+	height:104px;
+}
+#List03 {
+	position:absolute;
+	left:24px;
+	top:261px;
+	width:560px;
+	height:96px;
+}
